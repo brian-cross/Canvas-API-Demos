@@ -1,0 +1,16 @@
+body {
+  color: white;
+  background-color: cadetblue;
+  font-family: "Noto Sans", sans-serif;
+  width: 90%;
+  max-width: 60rem;
+  margin: 0 auto;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: #ccc;
+}
